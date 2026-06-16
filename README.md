@@ -1,4 +1,5 @@
 # La Disparition de la Madone Flamande
+## Un jeu de base de données inpirée de https://github.com/NUKnightLab/sql-mysteries et https://github.com/veltman/clmystery
 ### Mystere SQL — Module 106
 
 Un jeu d'enquete policiere a resoudre uniquement avec des requetes SQL Server.
